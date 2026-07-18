@@ -6,6 +6,8 @@
 \alias{tstests-package}
 \title{tstests: Time Series Goodness of Fit and Forecast Evaluation Tests}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 Goodness of Fit and Forecast Evaluation Tests for timeseries models. Includes, among others, the Generalized Method of Moments (GMM) Orthogonality Test of Hansen (1982), the Nyblom (1989) parameter constancy test, the sign-bias test of Engle and Ng (1993), and a range of tests for value at risk and expected shortfall evaluation.
 }
 \seealso{
@@ -18,6 +20,11 @@ Useful links:
 }
 \author{
 \strong{Maintainer}: Alexios Galanos \email{alexios@4dscape.com} (\href{https://orcid.org/0009-0000-9308-0457}{ORCID}) [copyright holder]
+
+Authors:
+\itemize{
+  \item Alexios Galanos \email{alexios@4dscape.com} (\href{https://orcid.org/0009-0000-9308-0457}{ORCID}) [copyright holder]
+}
 
 }
 \keyword{internal}
